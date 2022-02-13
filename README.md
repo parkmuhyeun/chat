@@ -1,3 +1,3 @@
 # chat
 
-webflux + mongo chat
+webflux + mongo chat (SSE Way)
